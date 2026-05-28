@@ -1,0 +1,6 @@
+Alice|450|Classic|Animals|Easy|2026-05-28
+Bob|600|Timed|Technology|Hard|2026-05-28
+Charlie|120|Challenge|Fruits|Medium|2026-05-28
+David|600|Classic|Mixed|Mixed|2026-05-28
+pragathi|0|Timed|Fruits|Easy|2026-05-28
+pragathi|150|Timed|Mixed|Easy|2026-05-28

@@ -1,0 +1,6 @@
+[2026-05-28 22:50:12] Player: Alice | Mode: Classic | Category: Animals | Difficulty: Easy | Score: 450 | Words Solved: 5/5
+[2026-05-28 22:52:45] Player: Bob | Mode: Timed | Category: Technology | Difficulty: Hard | Score: 600 | Words Solved: 4/5
+[2026-05-28 22:55:18] Player: Charlie | Mode: Challenge | Category: Fruits | Difficulty: Medium | Score: 120 | Words Solved: 2/5
+[2026-05-28 22:58:30] Player: David | Mode: Classic | Category: Mixed | Difficulty: Mixed | Score: 600 | Words Solved: 5/5
+[2026-05-28 23:19:48] Player: pragathi | Mode: Timed | Category: Fruits | Difficulty: Easy | Score: 0 | Words Solved: 0/5
+[2026-05-28 23:26:37] Player: pragathi | Mode: Timed | Category: Mixed | Difficulty: Easy | Score: 150 | Words Solved: 1/5
